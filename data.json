@@ -3,21 +3,13 @@
         {
             "name": "Movies",
             "videos": [
-                {
-                    "description": "Meet Naomi, an indigenous Vegetables Farmer,  who goes back to the village to start agribusiness. She decides to start a vegetable farming business. She is a university graduate, who in spite not of getting an office job in the manufacturing industry finds agribusiness the only way of making it in life. She has faced challenges especially from family and friends who criticised her move to start farming, which is mostly perceived as a dirty job or job for the poor in the society. She has worked hard and now she employees 3 workers who help her at the farms day to day activities. She has no regrets about getting into farming and she encourages youths to start farming because farming pays and one came easily become a successful millionaire farmer.",
-                    "sources": [
-                        "http://farmhub-api.dalasystems.com/files/1678543564249.mp4"
-                    ],
-                    "subtitle": "By FarmTech",
-                    "thumb": "https://images.unsplash.com/photo-1605000797499-95a51c5269ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFybWluZ3xlbnwwfHwwfHw%3D&w=1000&q=80",
-                    "title": " Meet Naomi, an indigenous Vegetable Kenyan Farmer | How to start vegetable farming at home "
-                },
+               
                 {
                     "description": "Which crop 🌿 🍉🍎 are you growing this season? We have a network of agronomist across the country- available to guide you on pest and disease control and a wide range of products for all your crop protection needs. 📞 Call 0800 721 495 (Toll Free) for more information.",
                     "sources": [
                         "http://farmhub-api.dalasystems.com/files/1679490833865.mp4"
                     ],
-                    "subtitle": "By Blender Foundation",
+                    "subtitle": "By Greenlife Protection",
                     "thumb": "http://cdn.standardmedia.co.ke/images/friday/farming_videos_make_6218c2c2c2b8d.jpg",
                     "title": "RAIN SEASON: STAWISHA KILIMO NA GREENLIFE"
                 },
@@ -26,7 +18,7 @@
                     "sources": [
                         "http://farmhub-api.dalasystems.com/files/1679490885869.mp4"
                     ],
-                    "subtitle": "By Google",
+                    "subtitle": "By Greenlife Protection",
                     "thumb": "https://i.ytimg.com/vi/EDjVxCNLP3I/maxresdefault.jpg",
                     "title": "GREENLIFE STAR; A TIME SAVER AND IT'S POCKET FRIENDLY"
                 },
@@ -35,7 +27,7 @@
                     "sources": [
                         "http://farmhub-api.dalasystems.com/files/1679490944423.mp4"
                     ],
-                    "subtitle": "By Google",
+                    "subtitle": "By Greenlife Protection",
                     "thumb": "https://i.ytimg.com/vi/nrfezQ3BP98/maxresdefault.jpg",
                     "title": "Greenlife Star Battery Sprayer (2 in 1)"
                 },
@@ -44,7 +36,7 @@
                     "sources": [
                         "http://farmhub-api.dalasystems.com/files/1679490982996.mp4"
                     ],
-                    "subtitle": "By Google",
+                    "subtitle": "By Greenlife Protection",
                     "thumb": "https://www.greenlife.co.ke/wp-content/uploads/2022/03/occasion-star.png",
                     "title": "CONTROL CHEWING INSECT PESTS- OCCASION STAR® 200SC"
                 },
@@ -53,7 +45,7 @@
                     "sources": [
                         "http://farmhub-api.dalasystems.com/files/1679491027006.mp4"
                     ],
-                    "subtitle": "By Google",
+                    "subtitle": "By Greenlife Protection",
                     "thumb": "https://i.ytimg.com/vi/1zUOSgbpEW4/maxresdefault.jpg",
                     "title": "Plant Stress Management- Optimizer®"
                 },
@@ -62,7 +54,7 @@
                     "sources": [
                         "http://farmhub-api.dalasystems.com/files/1679491127566.mp4"
                     ],
-                    "subtitle": "By Google",
+                    "subtitle": "By Greenlife Protection",
                     "thumb": "https://i0.wp.com/imaginecare.co.ke/wp-content/uploads/2021/02/Governor-580-SE.jpg?fit=1772%2C1772&ssl=1",
                     "title": "GOVERNER 580 SE FOR 100% Weed Control in Maize Fields"
                 },
@@ -71,7 +63,7 @@
                     "sources": [
                         "http://farmhub-api.dalasystems.com/files/1679493313948.mp4"
                     ],
-                    "subtitle": "By Blender Foundation",
+                    "subtitle": "By Greenlife Protection",
                     "thumb": "https://www.greenlife.co.ke/wp-content/uploads/2022/04/weeds_control_in_beans.jpg",
                     "title": "An Absolutely Weed Free Beans Farm with Bentagran 240 EC"
                 },
