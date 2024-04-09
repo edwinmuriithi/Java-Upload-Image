@@ -406,6 +406,46 @@
                 },
 
                 {
+                    "description": "AGRI-PULSE Maize Crop Management Part 1",
+                    "sources": [
+                        "https://farmhub-api.amolo.me/files/1712659283251.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://i.ytimg.com/vi/VRN_YG8wQio/maxresdefault.jpg",
+                    "title": "AGRI-PULSE Maize Crop Management Part 1"
+                },
+
+                {
+                    "description": "AGRI-PULSE Maize Post Harvest Handling Part 1",
+                    "sources": [
+                        "https://farmhub-api.amolo.me/files/1712660289449.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://i.ytimg.com/vi/Pm4FjTKGohk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-DoACuAiKAgwIABABGGUgVihDMA8=&rs=AOn4CLDbTOciaa6VFCPIf8oQZCGiwW2RxQ",
+                    "title": "AGRI-PULSE Maize Post Harvest Handling Part 1"
+                },
+
+                {
+                    "description": "The AgResults Foot and Mouth Disease (FMD) Vaccine Challenge Project is an eight-year US$17.68 million prize competition that supports the development and uptake of high-quality FMD vaccines tailored to meet the needs of Eastern Africa.",
+                    "sources": [
+                        "https://farmhub-api.amolo.me/files/1712660789981.mp4"
+                    ],
+                    "subtitle": "GALVmed",
+                    "thumb": "https://www.galvmed.org/wp-content/uploads/2020/01/Galvmed_FMD_Nakuru-110-1024x439.jpg",
+                    "title": "The Impact of Foot and Mouth Disease in Eastern Africa"
+                },
+
+                {
+                    "description": "Kila mwaka wakulima hupoteza kuku wengi kutokana na ugonjwa hatari unaoitwa Mdondo. Ni ugonjwa unaoambukizwa sana na unaweza kuua haraka kuku wote waliofugwa mahali pamoja. Video hii fupi ya mazoezi, itakuonyesha jinsi unavyoweza kuwalinda kuku wako dhidi ya Mdondo au Kideri na itakupa mbinu mwafaka za kufuga kuku wako. Every year farmers lose large numbers of chickens due to the dangerous disease of poultry Newcastle Disease (ND). ND is characterised by its ability to spread widely very rapidly and causes lots of deaths in a short period of time among chickens reared together. This short training video shows you how you can protect your chickens against ND and demonstrates good chicken husbandry techniques.",
+                    "sources": [
+                        "https://farmhub-api.amolo.me/files/1712660886811.mp4"
+                    ],
+                    "subtitle": "GALVmed",
+                    "thumb": "https://i.ytimg.com/vi/QWQE5lNa1hk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGGUgUyhEMA8=&rs=AOn4CLBDjxKmIXeh8PsGGCtCTh8vdd038g",
+                    "title": "Video ya Mafunzo kuhusu ugonjwa wa Mdondo/Kideri (Newcastle Disease vaccine training in Swahili)"
+                },
+
+                {
                     "description": "The productivity of every farm in Kenya is dependent on the potential of the soils in each field to grow crops.\nLong term and repeated use of nitrogen-based fertilizers in the maize growing zones of Western Kenya has resulted in high soil acidity reducing farm productivity. \nRecent introduction of the use of lime to reduce soil acidity has resulted in dramatic improvement in maize yield.\nThis video shows how farmers in Western Kenya have recorded improved productivity due to use of Agricultural Lime.",
                     "sources": [
                         "https://farmhub-api.amolo.me/files/1710858854780.mp4"
