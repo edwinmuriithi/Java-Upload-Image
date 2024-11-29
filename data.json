@@ -4,8 +4,57 @@
             "name": "Movies",
             "videos": [
                
-                                
-               {
+                {
+                    "description": "It is very important that you dry off your dairy cow on time and in the right way to avoid serious loss of either the cow or the calf. Join us and the Shamba Shape Up team as we talk about proper dry cow management.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732880557100.mp4"
+                    ],
+                    "subtitle": "CKL Africa",
+                    "thumb": "https://i.ytimg.com/vi/Y8Q0XRhFDqs/maxresdefault.jpg",
+                    "title": "Drying Off Your Cows"
+                },
+
+                {
+                    "description": "The biggest part about keeping dairy cattle is ensuring that they have enough feed. As a farmer you should always make sure to give your animals a balanced diet.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732880120027.mp4"
+                    ],
+                    "subtitle": "CKL Africa",
+                    "thumb": "https://i.ytimg.com/vi/LC7PkI5Dg2g/sddefault.jpg",
+                    "title": "Dairy Cow Nutrition"
+                },
+
+                {
+                    "description": "Ensuring our calves grow up strong and healthy involves three key elements: proper nutrition, regular deworming, and comfortable housing. A balanced diet rich in essential nutrients supports their growth, routine deworming keeps them parasite-free, and cozy, clean housing ensures their well-being. Watch how to give your calves the best start in life!",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732880007843.mp4"
+                    ],
+                    "subtitle": "CKL Africa",
+                    "thumb": "https://i.ytimg.com/vi/70GJlNB8_sM/maxresdefault.jpg",
+                    "title": "Raising Strong & Healthy Calves"
+                },
+
+                {
+                    "description": "The biggest part about keeping dairy cattle is ensuring that they have enough feed. As a farmer you should always make sure to give your animals a balanced diet.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732879762323.mp4"
+                    ],
+                    "subtitle": "CKL Africa",
+                    "thumb": "https://i.ytimg.com/vi/LC7PkI5Dg2g/sddefault.jpg",
+                    "title": "Dairy Cow Nutrition"
+                },
+
+                {
+                    "description": "If you want your cows to produce well you need to start feeding them properly from when they are calves.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732879499939.mp4"
+                    ],
+                    "subtitle": "CKL Africa",
+                    "thumb": "https://i.ytimg.com/vi/-1YtczgeiZA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvpbsTYyrAZSXTlIqRpfsEeebVkQ",
+                    "title": "Calf Health & Nutrition"
+                },
+
+                {
                     "description": "Mastitis prevention is not just a choice, it's a necessity. Learn the crucial steps to prevent this costly condition. Prevention is the key to saving big! Watch now and safeguard your dairy profits. #kingamastitis.",
                     "sources": [
                         "https://farmhub.devmoran.com/files/1712324904969.mp4"
