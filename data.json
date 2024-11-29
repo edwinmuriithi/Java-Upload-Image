@@ -5,6 +5,106 @@
             "videos": [
                
                 {
+                    "description": "This is a video on how to make simple Home/Kitchen garden structures. It is one in a series of videos produced under the 1 Million Home/Kitchen Garden Initiative by the Ministry of Agriculture, Livestock Fisheries and Cooperatives in Kenya.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732882019845.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://i.ytimg.com/vi/pGFqffUVSXI/sddefault.jpg",
+                    "title": "How to Make Home/Kitchen Garden Structures"
+                },
+
+                {
+                    "description": "Learn about the danger of feeding your dairy cow with an imbalanced diet that has too much energy, underfeeding the cow, what causes milk fever, how to care for the cow just before it delivers its calf among other related topics.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732881964898.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://akshayakalpa.org/wp-content/uploads/2021/01/Cow-diet.jpg",
+                    "title": "How to Feed Your Dairy Cow with a Balanced Diet"
+                },
+
+                {
+                    "description": "Know what to do when delivering a calf during its birth and the 5 C’s of calf rearing:  Cleanliness, Comfort, Consistency, Colostrum and Calories.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732881903786.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://dairy.extension.wisc.edu/files/2022/10/aerica-newborn-calf-1-1024x768.jpg",
+                    "title": "Caring for the New Born Calf"
+                },
+
+                {
+                    "description": "In this video, learn about the main nutrients that maize needs to grow well: Nitrogen, Phosphorous and Potassium or NPK in short. Learn how a deficiency in any of these nutrients can be observed in your maize plantation.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732881839473.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://cropnuts.com/wp-content/uploads/2023/11/Website-Images-650-%C3%97-407-px-6.png",
+                    "title": "Learn About Maize Nutrition and Planting Best Practices"
+                },
+
+                {
+                    "description": "In this video, find out the common land preparation practices that actually negatively affect successful crop production. Instead, learn better ways of preparing your land through minimum tillage methods.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732881765732.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://cropnuts.com/wp-content/uploads/2023/10/1-2.png",
+                    "title": "How to Best Prepare Your Land for Maize Planting"
+                },
+                
+                {
+                    "description": "This video covers growing of tomatoes within a greenhouse.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732881700835.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://i.ytimg.com/vi/obsLwew-NT0/sddefault.jpg",
+                    "title": "Greenhouse Tomato Farming"
+                },
+
+                {
+                    "description": "This video shows the construction of a low cost greenhouse and bed preperation for planting.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732881639134.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://i.ytimg.com/vi/Vy72pRX6hJw/sddefault.jpg",
+                    "title": "Low Cost Greenhouse Farming"
+                },
+
+                {
+                    "description": "Filamu hii yaonyesha ukuzaji wa Karandile hapa nchini .Yaweza kutumiwa kwa kufundisha wakulima jinsi wanaweza kutengeneza miche mizuri ya Karandile.Imedhaminiwa na mradi wa PSDA. Mradi wa serikali ya Kenya kwa ushirikiano na serikali ya Ujerumani.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732881520584.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://i.ytimg.com/vi/bhuNMYJQwY8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCcKy_2cWPsF48_ZmfnWOo_MNnnMw",
+                    "title": "Karandile (Passion Fruit) Farming"
+                },
+
+                {
+                    "description": "In this video, learn about the major insect pests in maize, why you should plant your maize early, importance of crop rotation, use of certified seeds, weed management, inappropriate weed control among other related topics.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1732882701526.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://i.ytimg.com/vi/R_j-HXGTjws/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDbgtd09LzHAMvqVWp9Nx1NBGZFZA",
+                    "title": "Maize Crop Management Part 2"
+                },
+
+                {
+                    "description": "In this video, learn about land preparation for maize planting, why you should do soil testing before planting, leaving crop residue from your previous harvest, minimum tillage and other related topics.",
+                    "sources": [
+                        "https://farmhub.devmoran.com/files/1712659283251.mp4"
+                    ],
+                    "subtitle": "AIRC",
+                    "thumb": "https://i.ytimg.com/vi/VRN_YG8wQio/maxresdefault.jpg",
+                    "title": "Maize Crop Management Part 1"
+                },
+
+                {
                     "description": "It is very important that you dry off your dairy cow on time and in the right way to avoid serious loss of either the cow or the calf. Join us and the Shamba Shape Up team as we talk about proper dry cow management.",
                     "sources": [
                         "https://farmhub.devmoran.com/files/1732880557100.mp4"
@@ -455,23 +555,23 @@
                 },
 
                 {
-                    "description": "AGRI-PULSE Maize Crop Management Part 1",
+                    "description": "Learn how to properly store your maize after harvesting, storage options available such as storage cribs, metal drums, silos, effects of poor handling of your maize grain, the danger of mould in maize, why you should not feed your cows with contaminated maize, pest control and safe use of chemicals.",
                     "sources": [
-                        "https://farmhub.devmoran.com/files/1712659283251.mp4"
+                         "https://farmhub.devmoran.com/files/1732882339075.mp4"
                     ],
                     "subtitle": "AIRC",
-                    "thumb": "https://i.ytimg.com/vi/VRN_YG8wQio/maxresdefault.jpg",
-                    "title": "AGRI-PULSE Maize Crop Management Part 1"
+                    "thumb": "https://i.ytimg.com/vi/0fY2oemeiIw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gWSgvMA8=&rs=AOn4CLBYMECDDspbVDQryrajmyiwrT9bCg",
+                    "title": "This is How to Reduce Maize Post-Harvest Losses – Part 2"
                 },
 
                 {
-                    "description": "AGRI-PULSE Maize Post Harvest Handling Part 1",
+                    "description": "In this video, learn when to know the maize is ready for harvest, what to do just before harvesting, what to do during harvesting, how to handle the maize, before shelling the maize, how to determine the quality of your maize, and how to start fighting against moisture",
                     "sources": [
                         "https://farmhub.devmoran.com/files/1712660289449.mp4"
                     ],
                     "subtitle": "AIRC",
                     "thumb": "https://i.ytimg.com/vi/Pm4FjTKGohk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-DoACuAiKAgwIABABGGUgVihDMA8=&rs=AOn4CLDbTOciaa6VFCPIf8oQZCGiwW2RxQ",
-                    "title": "AGRI-PULSE Maize Post Harvest Handling Part 1"
+                    "title": "This is How to Reduce Maize Post-Harvest Losses – Part 1"
                 },
 
                 {
